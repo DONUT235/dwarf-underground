@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CommentLink from './CommentLink.js';
+import './Links.css';
 
 class Links extends Component {
 	render() {
